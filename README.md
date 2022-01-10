@@ -6,5 +6,5 @@
  📈 **My GitHub Stats:**
 <p>
   <img height="180em" width="457px" src="https://github-readme-stats.vercel.app/api?username=VladimirAngelov&hide=issues&show_icons=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VladimirAngelov&layout=compact&hide=handlebars"/>
+  <img height="180em" width="333px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VladimirAngelov&layout=compact&hide=handlebars"/>
 </p>
