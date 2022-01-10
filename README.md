@@ -1,6 +1,5 @@
 ### Hi there, I'm Vladimir Angelov! 👋
 **About Me:**
-
 - ⚡ Full Stack JS Developer (MERN Stack)
 - 📫 How to reach me: wladimirangelow@gmail.com
 
