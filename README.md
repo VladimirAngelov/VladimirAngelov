@@ -1,9 +1,9 @@
 ### Hi there, I'm Vladimir! 👋
-🙎🏻‍♂️ **About Me:**
+**🙎🏻‍♂ About Me:**
 - ⚡ Full Stack JS Developer
 - 📫 How to reach me: wladimirangelow@gmail.com
 
-💻 **Tech Stack**
+💻 **Tech Stack:**
 <p style="max-width: 800px">
 <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />  
 <img alt="Nextjs" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />  
