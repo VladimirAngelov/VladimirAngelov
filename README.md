@@ -21,4 +21,3 @@
 </p>
 
 [![VladimirAngelov's GitHub | Stats](https://stats.quine.sh/VladimirAngelov/github?theme=dark)](http://localhost:3000?utm_source=widgets&utm_campaign=VladimirAngelov)
-[![VladimirAngelov's GitHub | Stats](https://stats.quine.sh/VladimirAngelov/github?theme=light)](https://quine.sh)
