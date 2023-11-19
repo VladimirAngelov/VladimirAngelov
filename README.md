@@ -19,3 +19,6 @@
 <img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />  
 <img alt="git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
 </p>
+
+[![VladimirAngelov's GitHub | Stats](https://stats.quine.sh/VladimirAngelov/github?theme=dark)](http://localhost:3000?utm_source=widgets&utm_campaign=VladimirAngelov)
+[![VladimirAngelov's GitHub | Stats](https://stats.quine.sh/VladimirAngelov/github?theme=light)](https://quine.sh)
